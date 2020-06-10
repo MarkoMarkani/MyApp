@@ -28,3 +28,5 @@ module.exports = app;
 logger.error("Testing logger");
 logger.error("Testing logger 1");
 logger.info("Testing logger");
+
+console.log("Markani");
