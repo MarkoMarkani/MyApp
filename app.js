@@ -30,3 +30,8 @@ logger.error("Testing logger 1");
 logger.info("Testing logger");
 
 console.log("Markani");
+console.log("Grana 1")
+console.log("Grana 1 opet")
+console.log("Grana 1 opet opet")
+console.log("Sada isprobavamo cherry pick");
+
