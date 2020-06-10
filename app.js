@@ -34,4 +34,5 @@ console.log("Grana 1")
 console.log("Grana 1 opet")
 console.log("Grana 1 opet opet")
 console.log("Sada isprobavamo cherry pick");
+console.log(`Zrelo za novi commit`)
 
