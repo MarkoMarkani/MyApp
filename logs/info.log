@@ -97,3 +97,45 @@
 {"message":"Testing logger","level":"error","timestamp":"12/May/2020 12:03:13"}
 {"message":"Testing logger 1","level":"error","timestamp":"12/May/2020 12:03:13"}
 {"message":"Testing logger","level":"info","timestamp":"12/May/2020 12:03:13"}
+<<<<<<< Updated upstream
+=======
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:36:47"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:36:47"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:36:47"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:41:14"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:41:14"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:41:14"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:41:27"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:41:27"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:41:27"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:41:30"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:41:30"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:41:30"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:42:59"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:42:59"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:42:59"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:45:06"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:45:06"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:45:06"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:45:10"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:45:10"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:45:10"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:45:11"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:45:11"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:45:11"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:45:21"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:45:21"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:45:21"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:45:22"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:45:22"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:45:22"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 14:45:30"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 14:45:30"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 14:45:30"}
+>>>>>>> Stashed changes
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 15:25:24"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 15:25:24"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 15:25:24"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 15:27:11"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 15:27:11"}
+{"message":"Testing logger","level":"info","timestamp":"20/Nov/2020 15:27:13"}

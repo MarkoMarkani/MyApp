@@ -4,7 +4,7 @@ const rp = require('request-promise');
 const Student = require('../models/student');
 const functions = require('../utils/functions')
 
-
+console.log("From index.js");
 
 
 /* GET home page. */
