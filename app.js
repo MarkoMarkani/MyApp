@@ -37,3 +37,5 @@ console.log("Sada isprobavamo cherry pick");
 
 console.log("SAD CE STASH");
 
+console.log('Skabo - Trening')
+

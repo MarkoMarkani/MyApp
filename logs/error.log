@@ -59,3 +59,5 @@
 {"message":"Testing logger 1","level":"error","timestamp":"12/May/2020 12:01:47"}
 {"message":"Testing logger","level":"error","timestamp":"12/May/2020 12:03:13"}
 {"message":"Testing logger 1","level":"error","timestamp":"12/May/2020 12:03:13"}
+{"message":"Testing logger","level":"error","timestamp":"20/Nov/2020 15:32:51"}
+{"message":"Testing logger 1","level":"error","timestamp":"20/Nov/2020 15:32:51"}
